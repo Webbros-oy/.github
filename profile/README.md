@@ -14,4 +14,5 @@
 Webbros oy is Helsinki based company with focus on Odoo, SME targeted ERP platform
 
 We use Github as backbone for odoo.sh projects and in-house addon development.
-Stay tuned!
+Stay tuned and check our web-site!
+www.webbros.fi
